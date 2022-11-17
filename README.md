@@ -1,5 +1,7 @@
 ## Oiii eu sou o Angelo Nascimento!
-
+<p>
+  <img align="center" alt="Angelo" height="460" width="300" src="https://discord.com/channels/1042634902421647452/1042634903281475627/1042634937871892551">
+</p>
 <div align="center">
   <a href="https://github.com/Angelo-Nascimento">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=angelo-nascimento&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
